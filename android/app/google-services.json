@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639695196957",
+    "firebase_url": "https://estudiantes-rest-api-default-rtdb.firebaseio.com",
+    "project_id": "estudiantes-rest-api",
+    "storage_bucket": "estudiantes-rest-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639695196957:android:45261fca6d0676c5c347f4",
+        "android_client_info": {
+          "package_name": "com.example.laboratorio13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639695196957-qoggj35i95q89ae93geq94e7bs3uucgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5HGt21qVRWdUuvbv867jdlTBoDIX4h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639695196957-qoggj35i95q89ae93geq94e7bs3uucgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

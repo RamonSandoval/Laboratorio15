@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Kris Lamberson",
+        "matricula": "18760460",
+        "email": "kris@gmail.com",
+        "phone":"6462014556",
+        "career":"Ing. Sistemas Computacionales",
+        "semester": "8"
+    },
+    {
+        "name": "Mike Ramirez Hernan",
+        "matricula": "18760450",
+        "email": "rmike@hotmail.com",
+        "phone":"6462046782",
+        "career":"Lic. Administración",
+        "semester": "8"
+    },
+    {
+        "name": "Julio Venegas",
+        "matricula": "18760469",
+        "email": "rjulio@gmail.com",
+        "phone":"6461445627",
+        "career":"Ing. Electronica",
+        "semester": "8"
+    },
+    {
+        "name": "Alfonso del Carmen",
+        "matricula": "18760488",
+        "email": "alfonso@gmail.com",
+        "phone":"6461402934",
+        "career":"Ing. Industrial",
+        "semester": "8"
+    },
+    {
+        "name": "Maria Lupita Rosas",
+        "matricula": "18760478",
+        "email": "maria@gmail.com",
+        "phone":"6465692493",
+        "career":"Ing. Gestión Empresarial",
+        "semester": "8"
+    }
+]
